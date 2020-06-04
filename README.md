@@ -1,7 +1,7 @@
 # Principal Component Analysis and Clustering
 
 In this project we look at real world problem of clustering 168 coutries based on some Macro-economic indicators. Some examples are
-child moratlity, exports and imports expressed as percentage of GDP etc. The dataset consists of nine such features
+child mortality, exports and imports expressed as percentage of GDP etc. The dataset consists of nine such features
 for all the 168 countries. Our objective is to explore, if the countries fall into distinct clusters based on some similarities. This could
 help us identify countries desperate in need of financial need.
 
